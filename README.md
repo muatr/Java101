@@ -1,4 +1,4 @@
-## SQL-Tasks
+## Java Tasks
 #### [Body Mass Index](https://github.com/muatr/Java101/blob/master/src/Bmi.java)
 
 #### [Flight Ticket Price](https://github.com/muatr/Java101/blob/master/src/Plane.java)
